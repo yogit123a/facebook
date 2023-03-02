@@ -1,0 +1,27 @@
+{
+  "name": "facebook-folder",
+  "version": "1.0.0",
+  "description": "facebook clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/yogit123a/facebook.git",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogit123a/facebook.git"
+  },
+  "keywords": [
+    "fa",
+    "facebook"
+  ],
+  "author": "yogi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogit123a/facebook/issues"
+  },
+  "homepage": "https://github.com/yogit123a/facebook#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
